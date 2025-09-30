@@ -23,4 +23,4 @@ The application consists of several modules. Below is the holistic view of the a
 The picture below highlight the process on how each modules interact with each other.
 
 
-![System Sequence Diagram](https://github.com/thesis-anab/.github/blob/main/profile/system_sequence_diagram.png)
+![System Sequence Diagram](https://github.com/thesis-anab/.github/blob/main/profile/system_sequence_diagram_white.png)
